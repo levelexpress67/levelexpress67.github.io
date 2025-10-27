@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="sr">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Level Express Doo - Brza dostava</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<header>
+<div class="container header-content">
+<h1>Level Express Doo</h1>
+<p>Brza, sigurna i povoljna dostava!</p>
+<a href="tel:+38269421011" class="call-button">Pozovite +382 69421011</a>
+</div>
+</header>
+
+<section class="about">
+<div class="container">
+<h2>O nama</h2>
+<p>Level Express Doo iz Bara pruža brzu i pouzdanu dostavu širom Crne Gore. Vaše pošiljke stižu sigurno i na vreme!</p>
+</div>
+</section>
+
+<section class="contact">
+<div class="container">
+<h2>Kontakt</h2>
+<ul>
+<li><strong>Grad:</strong> Bar, Montenegro</li>
+<li><strong>Email:</strong> <a href="mailto:levelexpress67@gmail.com">levelexpress67@gmail.com</a></li>
+<li><strong>Telefon:</strong> +382 69421011</li>
+</ul>
+</div>
+</section>
+
+<footer>
+<div class="container">
+&copy; 2025 Level Express Doo. Sva prava zadržana.
+</div>
+</footer>
+</body>
+</html>
+m
